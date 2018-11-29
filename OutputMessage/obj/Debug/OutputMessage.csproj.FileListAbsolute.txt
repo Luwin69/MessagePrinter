@@ -1,0 +1,8 @@
+D:\OutputMessage Project\src\OutputMessage\OutputMessage\bin\OutputMessage.dll
+D:\OutputMessage Project\src\OutputMessage\OutputMessage\bin\OutputMessage.pdb
+D:\OutputMessage Project\src\OutputMessage\OutputMessage\obj\Debug\ResolveAssemblyReference.cache
+D:\OutputMessage Project\src\OutputMessage\OutputMessage\obj\Debug\OutputMessage.csproj.ResolveComReference.cache
+D:\OutputMessage Project\src\OutputMessage\OutputMessage\obj\Debug\OutputMessage.CommandBar.resources
+D:\OutputMessage Project\src\OutputMessage\OutputMessage\obj\Debug\OutputMessage.csproj.GenerateResource.Cache
+D:\OutputMessage Project\src\OutputMessage\OutputMessage\obj\Debug\OutputMessage.dll
+D:\OutputMessage Project\src\OutputMessage\OutputMessage\obj\Debug\OutputMessage.pdb
